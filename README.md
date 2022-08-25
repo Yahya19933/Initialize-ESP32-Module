@@ -22,10 +22,9 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 After installation of the ESP32. Need to test  ESP32 module, from installing the library to upload code to the ESP32 module, then can control the on board LED using the Serial Monitor window:
 
-**Command**            **Result**
 
-    off                turn off LED
+The Command off                will shows turn off LED
     
-    on                 turn on LED
+The Command on                 will shows turn on LED
     
-delay 100          LED blink every 100ms
+The Command delay 100          will shows LED blink every 100ms
